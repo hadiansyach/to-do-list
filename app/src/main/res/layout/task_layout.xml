@@ -17,7 +17,9 @@
             android:id="@+id/todoCheckbox"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:checked="false"
             android:padding="8dp"
+
             android:paddingStart="8dp"
             tools:text="Lorem ipsum dolor si amet" />
     </RelativeLayout>
